@@ -1,0 +1,9 @@
+@font-face{
+    font-family: 'Arial';
+    src: url("../fontes/ARIAL.TTF");
+}
+
+@font-face {
+    font-family: 'Chalet';
+    src: url("../fontes/ChaletComprime.ttf")
+}
